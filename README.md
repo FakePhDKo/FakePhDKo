@@ -1,3 +1,8 @@
+<p align="right">
+  <b>English</b> |
+  <a href="./README_KR.md">한국어</a>
+</p>
+
 <div align="center">
 
 # Hi, I'm Minsu Ko 👋
